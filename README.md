@@ -24,7 +24,7 @@ Kwizify is an interactive quiz/trivia game with AI-generated questions. Players 
 1. Clone the repository:
 
    ```
-      git clone https://github.com/anshikas14/Kwizify.git   cd quiz-game
+      git clone https://github.com/anshikas14/Kwizify.git   
    ```
 2. Install dependencies:
 
